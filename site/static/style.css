@@ -67,8 +67,6 @@ ul#nav a {
 
 div.event {
   background-image: var(--event-image);
-  background-color: rgba(43, 25, 61);
-  background-blend-mode: multiply;
   background-size: cover;
   background-position: 50% 65%;
   color: white;
