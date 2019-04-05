@@ -2,7 +2,9 @@
 layout: page
 title: Concerts
 ---
-<img src="/rebirth-2019-700.jpg" style="float: right">
+
+<img src="/rebirth-2019-700.jpg" class="half-size-poster">
+
 **Spring program 2019**
 
   **Sacred Spring**
