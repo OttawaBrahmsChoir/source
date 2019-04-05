@@ -50,8 +50,8 @@ Johannes Brahms
 _Golden Flüren_<br>
 Anton Dvorak
 
-_The bold grenadier_ -<br>
-English folk song; arr. John Rutter
+_The bold grenadier_ - English folk song<br>
+arr. John Rutter
 
 _Sumer is icumen in_ (Anonymous)
 
