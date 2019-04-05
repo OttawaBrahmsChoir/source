@@ -60,7 +60,9 @@ _Golden Flüren_
 
 Anton Dvorak
 
-_The bold grenadier  -_English folk song
+_The bold grenadier  -_
+
+English folk song
 
 arr. John Rutter
 
